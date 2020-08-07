@@ -1,0 +1,27 @@
+#navbarColor01 {
+    padding: 0.7rem 1rem;
+}
+
+.nav-item {
+    margin: 0 1rem;
+}
+
+.map .vue2leaflet-map { height: 91.9vh !important; }
+
+.error-message {
+    display: block;
+    color: crimson;
+}
+
+.admin-btn-table {
+    width: 120px;
+    margin: 0.2rem 0;
+}
+
+.search_empty {
+    text-align: center;
+}
+
+.object_table {
+    margin-top: 1rem;
+}
